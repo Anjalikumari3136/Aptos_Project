@@ -70,3 +70,7 @@ We aim to:
 This project represents the beginning of a new era in blockchain gaming, where traditional games meet cutting-edge technology to create transparent, fair, and exciting gaming experiences.
 
 Transaction Hash:0xd8cdef081e8361129ed99920e3b96314d908d0265db9225ac4e6d750af263301
+
+<img width="1887" height="971" alt="Screenshot 2025-09-18 143710" src="https://github.com/user-attachments/assets/2e7886d1-5f46-49e5-acbd-b6a3e2c9e203" />
+
+
